@@ -23,7 +23,7 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
     implementation 'org.infinispan.protostream:protostream:5.0.3.Final'
     implementation 'org.infinispan.protostream:protostream-processor:5.0.3.Final'
-    //annotationProcessor 'org.infinispan.protostream:protostream-processor:5.0.3.Final'
+    annotationProcessor 'org.infinispan.protostream:protostream-processor:5.0.3.Final'
 
 
 }
